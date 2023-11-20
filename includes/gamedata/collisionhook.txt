@@ -1,0 +1,57 @@
+
+/*
+ * quack
+*/
+
+"Games"
+{
+    "#default"
+    {
+        "Signatures"
+        {
+            /* @Crasher_3637 Thanks!
+             * How to find on windows:
+             * https://forums.alliedmods.net/showpost.php?p=2737146&postcount=119
+            */
+            "PassServerEntityFilter"
+            {
+                "windows"   "\x2A\x2A\x2A\x2A\x2A\x2A\x2A\x75\x2A\xB0\x2A\x5F\xC3\x56"
+                "linux"     "@_Z22PassServerEntityFilterPK13IHandleEntityS1_"
+            }
+        }
+    }
+
+    "csgo"
+    {
+        "Signatures"
+        {
+            "PassServerEntityFilter"
+            {
+                "windows"   "\x56\x8B\xF2\x57\x8B\xF9\x85\xF6\x74\x2A\x3B\xFE"
+                "linux"     "\x55\xB8\x01\x00\x00\x00\x89\xE5\x83\xEC\x38\x89\x5D\xF4"
+            }
+        }
+    }
+
+    "left4dead2"
+    {
+        "Signatures"
+        {
+            "PassServerEntityFilter"
+            {
+                "windows" "\x2A\x2A\x2A\x2A\x2A\x2A\x2A\x85\x2A\x75\x2A\xB0\x2A\x5F\x5D\xC3\x56"
+            }
+        }
+    }
+
+    "tf"
+    {
+        "Signatures"
+        {
+            "PassServerEntityFilter"
+            {
+                "windows" "\x55\x8B\xEC\x56\x8B\x75\x0C\x85\xF6\x75\x05"
+            }
+        }
+    }
+}

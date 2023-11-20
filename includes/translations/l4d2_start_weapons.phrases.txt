@@ -1,0 +1,147 @@
+"Phrases"
+{
+    "OnlyLiveSurvivor"
+    {
+        "en"    "{red}Only alive and not incaped {olive}survivors{red} can request for weapons"
+    }
+    "baseball"
+    {
+        "en"        "Baseball bat"
+    }
+    "cricket"
+    {
+        "en"        "Cricket bat"
+    }
+    "crowbar"
+    {
+        "en"        "Crowbar"
+    }
+    "guitar"
+    {
+        "en"        "Guitar"
+    }
+    "fireaxe"
+    {
+        "en"        "Fireaxe"
+    }
+    "frying_pan"
+    {
+        "en"        "Frying pan"
+    }
+    "katana"
+    {
+        "en"        "Katana"
+    }
+    "machete"
+    {
+        "en"        "Machete"
+    }
+    "tonfa"
+    {
+        "en"        "Tonfa"
+    }
+    "golfclub"
+    {
+        "en"        "Golf club"
+    }
+    "knife"
+    {
+        "en"        "Knife"
+    }
+    "shovel"
+    {
+        "en"        "Shovel"
+    }
+    "pitchfork"
+    {
+        "en"        "Pitchfork"
+    }
+    "gnome"
+    {
+        "en"        "Gnome"
+    }
+    "pump"
+    {
+        "en"        "Pump shotgun"
+    }
+    "chrome"
+    {
+        "en"        "Chrome shotgun"
+    }
+    "smg"
+    {
+        "en"        "SMG"
+    }
+    "uzi"
+    {
+        "en"        "Uzi"
+    }
+    "mp5"
+    {
+        "en"        "MP5"
+    }
+    "sniper"
+    {
+        "en"        "Steyr Scout"
+    }
+    "autoshotgun"
+    {
+        "en"        "Tactical Shotgun"
+    }
+    "spas"
+    {
+        "en"        "Combat Shotgun"
+    }
+    "m16"
+    {
+        "en"        "M-16 Assault Rifle"
+    }
+    "scar"
+    {
+        "en"        "Combat Rifle"
+    }
+    "ak"
+    {
+        "en"        "AK-47"
+    }
+    "hunting_rifle"
+    {
+        "en"        "Hunting Rifle"
+    }
+    "sniper_military"
+    {
+        "en"        "Sniper Rifle"
+    }
+    "awp"
+    {
+        "en"        "AWP"
+    }
+    "deagle"
+    {
+        "en"        "Deagle"
+    }
+    "MainMenuTitle"
+    {
+        "en"        "Choose a weapon type"
+    }
+    "ChooseWeaponMenuTitle"
+    {
+        "en"        "Choose a weapon"
+    }
+    "YourWeaponsLimitExcited"
+    {
+        "en"        "{blue}You've reached a limit of weapon requests. Limits: {olive}%d{blue}/{olive}%d"
+    }
+    "YourVipWeaponsLimitExcited"
+    {
+        "en"        "{blue}You've reached a limit of {green}VIP{blue} weapon requests. Limits: {olive}%d{blue}/{olive}%d"
+    }
+    "YourCurrentWeaponLimit"
+    {
+        "en"        "{blue}Your current requests limit: {olive}%d{blue}/{olive}%d"
+    }
+    "TheRoundIsLive"
+    {
+        "en"        "{blue}Round is {olive}live{blue}! You {olive}cannot{blue} get more weapons"
+    }
+}

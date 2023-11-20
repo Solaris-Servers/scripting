@@ -1,0 +1,97 @@
+"Phrases"
+{
+    "Random"
+    {
+        "en"        "Random"
+    }
+
+    "Red"
+    {
+        "en"        "Red"
+    }
+
+    "Blue"
+    {
+        "en"        "Blue"
+    }
+
+    "Green"
+    {
+        "en"        "Green"
+    }
+
+    "White"
+    {
+        "en"        "White"
+    }
+
+    "Orange"
+    {
+        "en"        "Orange"
+    }
+
+    "Yellow"
+    {
+        "en"        "Yellow"
+    }
+
+    "Pink"
+    {
+        "en"        "Pink"
+    }
+
+    "Peach"
+    {
+        "en"        "Peach"
+    }
+
+    "Cyan"
+    {
+        "en"        "Cyan"
+    }
+
+    "DeepPink"
+    {
+        "en"        "Deep pink"
+    }
+
+    "Magenta"
+    {
+        "en"        "Magenta"
+    }
+
+    "Purple"
+    {
+        "en"        "Purple"
+    }
+
+    "LightGreen"
+    {
+        "en"        "Light green"
+    }
+
+    "Lime"
+    {
+        "en"        "Lime"
+    }
+
+    "Olive"
+    {
+        "en"        "Olive"
+    }
+
+    "Coral"
+    {
+        "en"        "Coral"
+    }
+
+    "SkyBlue"
+    {
+        "en"        "Sky Blue"
+    }
+
+    "Midnight"
+    {
+        "en"        "Midnight"
+    }
+}

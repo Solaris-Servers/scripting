@@ -1,0 +1,9 @@
+"Connect_Announce"
+{
+    // elias
+    "STEAM_1:0:28542350"
+    {
+        "city"      "St Petersburg"
+        "country"   "RU"
+    }
+}

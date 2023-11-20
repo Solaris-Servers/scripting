@@ -1,0 +1,330 @@
+"Phrases"
+{
+    "VIP_CHAT_PREFIX"
+    {
+        "en"        "{DEFAULT}[{GREEN}VIP{DEFAULT}]"
+    }
+    "VIP_MENU_TITLE"
+    {
+        "en"        "| Solaris VIP menu |"
+    }
+    "EXPIRES_IN"
+    {
+        "en"        "Expires in"
+    }
+    "DISABLED"
+    {
+        "en"        "Disabled"
+    }
+    "ENABLED"
+    {
+        "en"        "Enabled"
+    }
+    "NO_ACCESS"
+    {
+        "en"        "No access"
+    }
+    "NO_FEATURES"
+    {
+        "en"        "No available features!"
+    }
+    "COMMAND_NO_ACCESS"
+    {
+        "en"        "You do not have permission to access this command!"
+    }
+    "NO_VIP_PLAYERS_ONLINE"
+    {
+        "en"        "No VIP-Players online"
+    }
+    "REMOVING_PLAYER"
+    {
+        "#format"   "{1:L}"
+        "en"        "{1}'s VIP has expired, removing player..."
+    }
+    "VIP_ADMIN_MENU_TITLE"
+    {
+        "en"        "Manage VIP System"
+    }
+    "MENU_ADD_VIP"
+    {
+        "en"        "Add VIP-Player"
+    }
+    "PLAYER_NO_LONGER_AVAILABLE"
+    {
+        "en"        "The player is no longer available"
+    }
+    "ADMIN_VIP_ADD_SUCCESS"
+    {
+        "#format"   "{1:s},{2:d}"
+        "en"        "VIP-Player {1} (ID: {2}) successfully added!"
+    }
+    "LOG_VIP_ADDED"
+    {
+        "#format"   "{1:s},{2:d},{3:s},{4:s},{5:s},{6:s}"
+        "en"        "VIP-Player {1} (ID: {2}, Duration: {3}, Expires: {4}, Group: {5}) added {6}"
+    }
+    "ADMIN_VIP_ADD_FAILED"
+    {
+        "en"        "Failed to add VIP-ID!"
+    }
+    "MENU_EDIT_VIP"
+    {
+        "en"        "Edit VIP-Player"
+    }
+    "MENU_EDIT_TIME"
+    {
+        "en"        "Edit Time"
+    }
+    "MENU_TIME_SET"
+    {
+        "en"        "Set Period"
+    }
+    "ADMIN_SET_EXPIRATION"
+    {
+        "#format"   "{1:s},{2:s}"
+        "en"        "The player {1} set the duration of VIP-status to {2}"
+    }
+    "LOG_ADMIN_SET_EXPIRATION"
+    {
+        "#format"   "{1:L},{2:s},{3:s}"
+        "en"        "Admin {1} has set {2} VIP's duration to {3}"
+    }
+    "MENU_TIME_ADD"
+    {
+        "en"        "Add Time"
+    }
+    "ADMIN_EXTENDED"
+    {
+        "#format"   "{1:s},{2:s}"
+        "en"        "{1}'s VIP was extended for {2}"
+    }
+    "LOG_ADMIN_EXTENDED"
+    {
+        "#format"   "{1:L},{2:s},{3:s}"
+        "en"        "Admin {1} has extented {2}'s VIP for {3}"
+    }
+    "UNABLE_TO_EXTENDED"
+    {
+        "en"        "Unable to extend this player's VIP"
+    }
+    "MENU_TIME_TAKE"
+    {
+        "en"        "Reduce Time"
+    }
+    "UNABLE_TO_REDUCE"
+    {
+        "en"        "Unable to reduce this player's VIP"
+    }
+    "ADMIN_REDUCED"
+    {
+        "#format"   "{1:s},{2:s}"
+        "en"        "{1}'s VIP was reduces for {2}"
+    }
+    "LOG_ADMIN_REDUCED"
+    {
+        "#format"   "{1:L},{2:s},{3:s}"
+        "en"        "Admin {1} has reduced {2}'s VIP for {3}"
+    }
+    "MENU_EDIT_GROUP"
+    {
+        "en"        "Edit VIP-Group"
+    }
+    "CURRENT"
+    {
+        "en"        "Current"
+    }
+    "ADMIN_SET_GROUP"
+    {
+        "#format"   "{1:s},{2:s}"
+        "en"        "{1}'s VIP-group was changed to {2}"
+    }
+    "LOG_CHANGE_GROUP"
+    {
+        "#format"   "{1:s},{2:d},{3:s},{4:s},{5:s}"
+        "en"        "VIP-Player {1} (ID: {2}, Group: {3}) changed the group to {4} {5}"
+    }
+    "MENU_DEL_VIP"
+    {
+        "en"        "Remove VIP-player"
+    }
+    "ADMIN_VIP_PLAYER_DELETED"
+    {
+        "#format"   "{1:s},{2:i}"
+        "en"        "VIP-player {1} (ID: {2}) was successfully removed"
+    }
+    "LOG_VIP_DELETED"
+    {
+        "#format"   "{1:s},{2:d},{3:s},{4:s}"
+        "en"        "VIP-Player {1} (ID: {2}, Group: {3}) removed {4}"
+    }
+    "MENU_LIST_VIP"
+    {
+        "en"        "List VIP-players"
+    }
+    "MENU_SEARCH"
+    {
+        "#format"   "{1:s},{2:d}"
+        "en"        "On request: {1}\nFound: {2} players"
+    }
+    "MENU_INFO_VIP_PLAYER"
+    {
+        "#format"   "{1:s},{2:s},{3:s},{4:s}"
+        "en"        "Information:\n \nName:\n{1}\nSteamID:\n{2}\nGroup:\n{3}\nExpires:\n{4}"
+    }
+    "TEMPORARY"
+    {
+        "en"        "Temporary"
+    }
+    "INFO"
+    {
+        "en"        "Information"
+    }
+    "CONFIRM"
+    {
+        "en"        "Confirm"
+    }
+    "CANCEL"
+    {
+        "en"        "Cancel"
+    }
+    "ERROR"
+    {
+        "en"        "ERROR"
+    }
+    "NO_PLAYERS_AVAILABLE"
+    {
+        "en"        "No players available!"
+    }
+    "FAILED_TO_LOAD_PLAYER"
+    {
+        "en"        "Couldn't load player!"
+    }
+    "VIP_PLAYERS"
+    {
+        "en"        "VIP Players"
+    }
+    "NO_GROUPS_AVAILABLE"
+    {
+        "en"        "No groups available!"
+    }
+    "ADMIN_MENU_RELOAD_VIP_PLAYES"
+    {
+        "en"        "Reload VIP-players"
+    }
+    "VIP_CACHE_REFRESHED"
+    {
+        "en"        "VIP-cache has been refreshed!"
+    }
+    "ADMIN_MENU_RELOAD_VIP_CFG"
+    {
+        "en"        "Reload VIP Settings"
+    }
+    "VIP_CFG_REFRESHED"
+    {
+        "en"        "VIP-settings has been reloaded!"
+    }
+    "BY_ADMIN"
+    {
+        "en"        "by admin"
+    }
+    "BY_SERVER"
+    {
+        "en"        "by server"
+    }
+    "BY_PLUGIN"
+    {
+        "en"        "by plugin"
+    }
+    "REASON_EXPIRED"
+    {
+        "en"        "Expired"
+    }
+    "REASON_INACTIVITY"
+    {
+        "en"        "For inactivity"
+    }
+    "GROUP"
+    {
+        "en"        "VIP-Group"
+    }
+    "NONE"
+    {
+        "en"        "None"
+    }
+    "NEVER"
+    {
+        "en"        "Never"
+    }
+    "EXPIRE"
+    {
+        "en"        "in"
+    }
+    "EXPIRED"
+    {
+        "en"        "Expired"
+    }
+    "ENTER_AUTH"
+    {
+        "en"        "Enter the chat Name/SteamID\n and press"
+    }
+    "PERMANENT"
+    {
+        "en"        "Permanent"
+    }
+    "INCORRECT_TIME"
+    {
+        "en"        "Incorrect time"
+    }
+    "FIND_THE_ID_FAIL"
+    {
+        "en"        "Synax: sm_delvip <vip-id>"
+    }
+    "INCORRECT_USAGE"
+    {
+        "en"        "Incorrect usage"
+    }
+    "USE"
+    {
+        "en"        "Use:"
+    }
+    "ALREADY_HAS_VIP"
+    {
+        "en"        "This player already has VIP!"
+    }
+    "ADMIN_GROUP_DOES_NOT_EXIST"
+    {
+        "en"        "Specified admin-group does not exist!"
+    }
+    "VIP_GROUP_DOES_NOT_EXIST"
+    {
+        "en"        "Specified VIP-group does not exist!"
+    }
+    "FIND_PLAYER"
+    {
+        "en"        "Search for a player"
+    }
+    "SHOW_ALL"
+    {
+        "en"        "Show all players"
+    }
+    "y."
+    {
+        "en"        "y."
+    }
+    "d."
+    {
+        "en"        "d."
+    }
+    "h."
+    {
+        "en"        "h."
+    }
+    "m."
+    {
+        "en"        "min."
+    }
+    "s."
+    {
+        "en"        "sec."
+    }
+}

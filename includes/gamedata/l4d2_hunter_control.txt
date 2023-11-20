@@ -1,0 +1,27 @@
+"Games"
+{
+    "left4dead2"
+    {
+        "Offsets"
+        {
+            /* @A1m`:
+             * Has not changed after the update on linux
+             * 216  CBaseAbility::OnTouch(CBaseEntity *)
+             *
+             * How to find it on windows
+             * We need to find the string "pounce_fail",
+             * this points to the function of this class CLunge,
+             * But it makes no difference to us, this indicates the OnTouch function in any class
+             * CLunge, CLeap, CCharge etc.
+             * Make vtable dump this class
+             * 215  sub_1035F7A0
+             * On windows it is always linux offset - 1
+            */
+            "CBaseAbility::OnTouch"
+            {
+                "linux"     "216"
+                "windows"   "215"
+            }
+        }
+    }
+}

@@ -1,0 +1,160 @@
+"Start_Weapons"
+{
+    "melee"
+    {
+        "baseball"
+        {
+            "name"      "baseball_bat"
+            "title"     "Baseball"
+        }
+        "cricket"
+        {
+            "name"      "cricket_bat"
+            "title"     "Cricket"
+        }
+        "crowbar"
+        {
+            "name"      "crowbar"
+            "title"     "Crowbar"
+        }
+        "guitar"
+        {
+            "name"      "electric_guitar"
+            "title"     "guitar"
+        }
+        "fireaxe"
+        {
+            "name"      "fireaxe"
+            "title"     "Fireaxe"
+        }
+        "frying_pan"
+        {
+            "name"      "frying_pan"
+            "title"     "Frying pan"
+        }
+        "katana"
+        {
+            "name"      "katana"
+            "title"     "Katana"
+        }
+        "machete"
+        {
+            "name"      "machete"
+            "title"     "Machete"
+        }
+        "tonfa"
+        {
+            "name"      "tonfa"
+            "title"     "Tonfa"
+        }
+        "golfclub"
+        {
+            "name"      "golfclub"
+            "title"     "Golfclub"
+        }
+        "shovel"
+        {
+            "name"      "shovel"
+            "title"     "Shovel"
+        }
+        "pitchfork"
+        {
+            "name"      "pitchfork"
+            "title"     "Pitchfork"
+        }
+    }
+    "tier1"
+    {
+        "pump"
+        {
+            "name"      "pumpshotgun"
+            "title"     "Pump Shotgun"
+        }
+        "chrome"
+        {
+            "name"      "shotgun_chrome"
+            "type"      "Chrome Shotgun"
+        }
+        "smg"
+        {
+            "name"      "smg_silenced"
+            "title"     "Silenced Submachine Gun"
+        }
+        "uzi"
+        {
+            "name"      "smg"
+            "title"     "Submachine Gun"
+        }
+        "sniper"
+        {
+            "name"      "sniper_scout"
+            "title"     "Steyr Scout"
+        }
+    }
+    "tier2"
+    {
+        "autoshotgun"
+        {
+            "name"      "autoshotgun"
+            "title"     "Tactical Shotgun"
+        }
+        "spas"
+        {
+            "name"      "shotgun_spas"
+            "type"      "Combat Shotgun"
+        }
+        "m16"
+        {
+            "name"      "rifle"
+            "title"     "M-16 Assault Rifle"
+        }
+        "scar"
+        {
+            "name"      "rifle_desert"
+            "title"     "Combat Rifle"
+        }
+        "ak"
+        {
+            "name"      "rifle_ak47"
+            "title"     "AK-47"
+        }
+        "hunting_rifle"
+        {
+            "name"      "hunting_rifle"
+            "title"     "Hunting Rifle"
+        }
+        "sniper_military"
+        {
+            "name"      "sniper_military"
+            "title"     "Sniper Rifle"
+        }
+    }
+    "vip_weapons"
+    {
+        "knife"
+        {
+            "name"      "knife"
+            "title"     "Knife"
+        }
+        "deagle"
+        {
+            "name"      "pistol_magnum"
+            "type"      "Deagle"
+        }
+        "mp5"
+        {
+            "name"      "smg_mp5"
+            "title"     "H&K MP5"
+        }
+        "awp"
+        {
+            "name"      "sniper_awp"
+            "title"     "AWP"
+        }
+        "gnome"
+        {
+            "name"      "gnome"
+            "title"     "Gnome"
+        }
+    }
+}

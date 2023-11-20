@@ -1,0 +1,92 @@
+"Games"
+{
+    "left4dead2"
+    {
+        "Functions"
+        {
+            "CChainsaw::PrimaryAttack"
+            {
+                "signature"     "CChainsaw::PrimaryAttack"
+                "callconv"      "thiscall"
+                "return"        "int"
+                "this"          "ignore"
+                "arguments"
+                {
+                    "a1"
+                    {
+                        "type"  "int"
+                    }
+                }
+            }
+            "CChainsaw::StopAttack"
+            {
+                "signature"     "CChainsaw::StopAttack"
+                "callconv"      "thiscall"
+                "return"        "int"
+                "this"          "ignore"
+                "arguments"
+                {
+                    "a1"
+                    {
+                        "type"  "int"
+                    }
+                }
+            }
+            "CSoundPatch::ChangePitch"
+            {
+                "signature"     "CSoundPatch::ChangePitch"
+                "callconv"      "thiscall"
+                "return"        "int"
+                "this"          "ignore"
+                "arguments"
+                {
+                    "a1"
+                    {
+                        "type"  "int"
+                    }
+                    "a2"
+                    {
+                        "type"  "float"
+                    }
+                    "a3"
+                    {
+                        "type"  "float"
+                    }
+                }
+            }
+        }
+        "Signatures"
+        {
+            /*
+            * CChainsaw::PrimaryAttack(void)
+            */
+            "CChainsaw::PrimaryAttack"
+            {
+                "library"       "server"
+                "linux"         "@_ZN9CChainsaw13PrimaryAttackEv"
+                "windows"       ""
+                /*  */
+            }
+                        /*
+            * CChainsaw::StopAttack(void)
+            */
+            "CChainsaw::StopAttack"
+            {
+                "library"       "server"
+                "linux"         "@_ZN9CChainsaw10StopAttackEv"
+                "windows"       ""
+                /*  */
+            }
+            /*
+            * CSoundPatch::ChangePitch(float, float)
+            */
+            "CSoundPatch::ChangePitch"
+            {
+                "library"       "server"
+                "linux"         "@_ZN11CSoundPatch11ChangePitchEff"
+                "windows"       ""
+                /*  */
+            }
+        }
+    }
+}

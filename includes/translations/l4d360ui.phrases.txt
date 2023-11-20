@@ -1,0 +1,930 @@
+"Phrases"
+{
+	"L4D360UI_Difficulty_Easy"
+	{
+		"en" "Easy"
+	}
+	"L4D360UI_Difficulty_Normal"
+	{
+		"en" "Normal"
+	}
+	"L4D360UI_Difficulty_Hard"
+	{
+		"en" "Advanced"
+	}
+	"L4D360UI_Difficulty_Expert"
+	{
+		"en" "Expert"
+	}
+	"L4D360UI_Difficulty_Impossible"
+	{
+		"en" "Expert"
+	}
+	"L4D360UI_CampaignTitle_C1"
+	{
+		"en" "Dead Center"
+	}
+	"L4D360UI_LevelName_COOP_C1M1"
+	{
+		"en" "1: Hotel"
+	}
+	"L4D360UI_LevelName_COOP_C1M2"
+	{
+		"en" "2: Streets"
+	}
+	"L4D360UI_LevelName_COOP_C1M3"
+	{
+		"en" "3: Mall"
+	}
+	"L4D360UI_LevelName_COOP_C1M4"
+	{
+		"en" "4: Atrium"
+	}
+	"L4D360UI_LevelName_VERSUS_C1M1"
+	{
+		"en" "1: Hotel (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C1M2"
+	{
+		"en" "2: Streets (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C1M3"
+	{
+		"en" "3: Mall (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C1M4"
+	{
+		"en" "4: Atrium (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C1M1"
+	{
+		"en" "Hotel Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C1M2"
+	{
+		"en" "Streets Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C1M3"
+	{
+		"en" "Mall Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C1M4"
+	{
+		"en" "Mall Atrium"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C1M1"
+	{
+		"en" "Hotel Survival"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C1M2"
+	{
+		"en" "Gun Shop"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C1M3"
+	{
+		"en" "Mall"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C1M4"
+	{
+		"en" "Mall Atrium"
+	}
+	"L4D360UI_CampaignTitle_C2"
+	{
+		"en" "Dark Carnival"
+	}
+	"L4D360UI_LevelName_COOP_C2M1"
+	{
+		"en" "1: Highway"
+	}
+	"L4D360UI_LevelName_COOP_C2M2"
+	{
+		"en" "2: Fairground"
+	}
+	"L4D360UI_LevelName_COOP_C2M3"
+	{
+		"en" "3: Coaster"
+	}
+	"L4D360UI_LevelName_COOP_C2M4"
+	{
+		"en" "4: Barns"
+	}
+	"L4D360UI_LevelName_COOP_C2M5"
+	{
+		"en" "5: Concert"
+	}
+	"L4D360UI_LevelName_VERSUS_C2M1"
+	{
+		"en" "1: Highway (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C2M2"
+	{
+		"en" "2: Fairground (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C2M3"
+	{
+		"en" "3: Coaster (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C2M4"
+	{
+		"en" "4: Barns (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C2M5"
+	{
+		"en" "5: Concert (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C2M1"
+	{
+		"en" "Motel"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C2M2"
+	{
+		"en" "Fairground Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C2M3"
+	{
+		"en" "Coaster Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C2M4"
+	{
+		"en" "Barns Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C2M5"
+	{
+		"en" "Concert Scavenge"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C2M1"
+	{
+		"en" "Motel"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C2M2"
+	{
+		"en" "Fairground Survival"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C2M3"
+	{
+		"en" "Coaster"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C2M4"
+	{
+		"en" "Stadium Gate"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C2M5"
+	{
+		"en" "Concert"
+	}
+	"L4D360UI_CampaignTitle_C3"
+	{
+		"en" "Swamp Fever"
+	}
+	"L4D360UI_LevelName_COOP_C3M1"
+	{
+		"en" "1: Plank Country"
+	}
+	"L4D360UI_LevelName_COOP_C3M2"
+	{
+		"en" "2: Swamp"
+	}
+	"L4D360UI_LevelName_COOP_C3M3"
+	{
+		"en" "3: Shanty Town"
+	}
+	"L4D360UI_LevelName_COOP_C3M4"
+	{
+		"en" "4: Plantation"
+	}
+	"L4D360UI_LevelName_VERSUS_C3M1"
+	{
+		"en" "1: Plank Country (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C3M2"
+	{
+		"en" "2: Swamp (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C3M3"
+	{
+		"en" "3: Shanty Town (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C3M4"
+	{
+		"en" "4: Plantation (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C3M1"
+	{
+		"en" "Plank Country"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C3M2"
+	{
+		"en" "Swamp Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C3M3"
+	{
+		"en" "Shanty Town Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C3M4"
+	{
+		"en" "Plantation Scavenge"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C3M1"
+	{
+		"en" "Gator Village"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C3M2"
+	{
+		"en" "Swamp Survival"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C3M3"
+	{
+		"en" "Shanty Town"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C3M4"
+	{
+		"en" "Plantation"
+	}
+	"L4D360UI_CampaignTitle_C4"
+	{
+		"en" "Hard Rain"
+	}
+	"L4D360UI_LevelName_COOP_C4M1"
+	{
+		"en" "1: Milltown"
+	}
+	"L4D360UI_LevelName_COOP_C4M2"
+	{
+		"en" "2: Sugar Mill"
+	}
+	"L4D360UI_LevelName_COOP_C4M3"
+	{
+		"en" "3: Mill Escape"
+	}
+	"L4D360UI_LevelName_COOP_C4M4"
+	{
+		"en" "4: Return to Town"
+	}
+	"L4D360UI_LevelName_COOP_C4M5"
+	{
+		"en" "5: Town Escape"
+	}
+	"L4D360UI_LevelName_VERSUS_C4M1"
+	{
+		"en" "1: Milltown (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C4M2"
+	{
+		"en" "2: Sugar Mill (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C4M3"
+	{
+		"en" "3: Mill Escape (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C4M4"
+	{
+		"en" "4: Return to Town (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C4M5"
+	{
+		"en" "5: Town Escape (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C4M1"
+	{
+		"en" "Milltown"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C4M2"
+	{
+		"en" "Sugar Mill"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C4M3"
+	{
+		"en" "Mill Escape"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C4M4"
+	{
+		"en" "Return to Town Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C4M5"
+	{
+		"en" "Town Escape Scavenge"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C4M1"
+	{
+		"en" "Burger Tank"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C4M2"
+	{
+		"en" "Sugar Mill"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C4M3"
+	{
+		"en" "Cane Field"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C4M4"
+	{
+		"en" "Return to Town Survival"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C4M5"
+	{
+		"en" "Town Escape"
+	}
+	"L4D360UI_CampaignTitle_C5"
+	{
+		"en" "The Parish"
+	}
+	"L4D360UI_LevelName_COOP_C5M1"
+	{
+		"en" "1: Waterfront"
+	}
+	"L4D360UI_LevelName_COOP_C5M2"
+	{
+		"en" "2: Park"
+	}
+	"L4D360UI_LevelName_COOP_C5M3"
+	{
+		"en" "3: Cemetery"
+	}
+	"L4D360UI_LevelName_COOP_C5M4"
+	{
+		"en" "4: Quarter"
+	}
+	"L4D360UI_LevelName_COOP_C5M5"
+	{
+		"en" "5: Bridge"
+	}
+	"L4D360UI_LevelName_VERSUS_C5M1"
+	{
+		"en" "1: Waterfront (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C5M2"
+	{
+		"en" "2: Park (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C5M3"
+	{
+		"en" "3: Cemetery (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C5M4"
+	{
+		"en" "4: Quarter (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C5M5"
+	{
+		"en" "5: Bridge (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C5M1"
+	{
+		"en" "Waterfront Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C5M2"
+	{
+		"en" "Park"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C5M3"
+	{
+		"en" "Cemetery Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C5M4"
+	{
+		"en" "Quarter Scavenge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C5M5"
+	{
+		"en" "Bridge Scavenge"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C5M1"
+	{
+		"en" "Waterfront"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C5M2"
+	{
+		"en" "Bus Depot"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C5M3"
+	{
+		"en" "Cemetery"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C5M4"
+	{
+		"en" "Float"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C5M5"
+	{
+		"en" "Bridge"
+	}
+	"L4D360UI_CampaignTitle_C6"
+	{
+		"en" "The Passing"
+	}
+	"L4D360UI_LevelName_COOP_C6M1"
+	{
+		"en" "1: Riverbank"
+	}
+	"L4D360UI_LevelName_COOP_C6M2"
+	{
+		"en" "2: Underground"
+	}
+	"L4D360UI_LevelName_COOP_C6M3"
+	{
+		"en" "3: Port"
+	}
+	"L4D360UI_LevelName_VERSUS_C6M1"
+	{
+		"en" "1: Riverbank (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C6M2"
+	{
+		"en" "2: Underground (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C6M3"
+	{
+		"en" "3: Port (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C6M1"
+	{
+		"en" "Riverbank"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C6M2"
+	{
+		"en" "Underground"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C6M3"
+	{
+		"en" "Port"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C6M1"
+	{
+		"en" "Riverbank"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C6M2"
+	{
+		"en" "Underground"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C6M3"
+	{
+		"en" "Port"
+	}
+	"L4D360UI_CampaignTitle_C7"
+	{
+		"en" "The Sacrifice"
+	}
+	"L4D360UI_LevelName_COOP_C7M1"
+	{
+		"en" "1: Docks"
+	}
+	"L4D360UI_LevelName_COOP_C7M2"
+	{
+		"en" "2: Barge"
+	}
+	"L4D360UI_LevelName_COOP_C7M3"
+	{
+		"en" "3: Port"
+	}
+	"L4D360UI_LevelName_VERSUS_C7M1"
+	{
+		"en" "1: Docks (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C7M2"
+	{
+		"en" "2: Barge (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C7M3"
+	{
+		"en" "3: Port (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C7M1"
+	{
+		"en" "Brick Factory"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C7M2"
+	{
+		"en" "Barge"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C7M1"
+	{
+		"en" "Train Car"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C7M2"
+	{
+	}
+	"L4D360UI_LevelName_SURVIVAL_C7M3"
+	{
+		"en" "Port"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C7M4"
+	{
+		"en" "Freighter"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C7M5"
+	{
+		"en" "Highrise"
+	}
+	"L4D360UI_CampaignTitle_C8"
+	{
+		"en" "No Mercy"
+	}
+	"L4D360UI_LevelName_COOP_C8M1"
+	{
+		"en" "1: The Apartments"
+	}
+	"L4D360UI_LevelName_COOP_C8M2"
+	{
+		"en" "2: The Subway"
+	}
+	"L4D360UI_LevelName_COOP_C8M3"
+	{
+		"en" "3: The Sewer"
+	}
+	"L4D360UI_LevelName_COOP_C8M4"
+	{
+		"en" "4: The Hospital"
+	}
+	"L4D360UI_LevelName_COOP_C8M5"
+	{
+		"en" "5: Rooftop Finale"
+	}
+	"L4D360UI_LevelName_VERSUS_C8M1"
+	{
+		"en" "1: The Apartments (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C8M2"
+	{
+		"en" "2: The Subway (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C8M3"
+	{
+		"en" "3: The Sewer (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C8M4"
+	{
+		"en" "4: The Hospital (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C8M5"
+	{
+		"en" "5: Rooftop Finale (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C8M1"
+	{
+		"en" "The Apartments"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C8M2"
+	{
+		"en" "The Subway"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C8M3"
+	{
+		"en" "The Sewer"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C8M4"
+	{
+		"en" "The Hospital"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C8M5"
+	{
+		"en" "The Rooftop"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C8M1"
+	{
+		"en" "Apartments"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C8M2"
+	{
+		"en" "Generator Room"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C8M3"
+	{
+		"en" "Gas Station"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C8M4"
+	{
+		"en" "Hospital"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C8M5"
+	{
+		"en" "Rooftop"
+	}
+	"L4D360UI_CampaignTitle_C9"
+	{
+		"en" "Crash Course"
+	}
+	"L4D360UI_LevelName_COOP_C9M1"
+	{
+		"en" "1: The Alleys"
+	}
+	"L4D360UI_LevelName_COOP_C9M2"
+	{
+		"en" "2: The Truck Depot Finale"
+	}
+	"L4D360UI_LevelName_VERSUS_C9M1"
+	{
+		"en" "1: The Alleys (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C9M2"
+	{
+		"en" "2: The Truck Depot Finale (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C9M1"
+	{
+		"en" "The Alleys"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C9M2"
+	{
+		"en" "The Truck Depot"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C9M1"
+	{
+		"en" "Bridge"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C9M2"
+	{
+		"en" "Truck Depot"
+	}
+	"L4D360UI_CampaignTitle_C10"
+	{
+		"en" "Death Toll"
+	}
+	"L4D360UI_LevelName_COOP_C10M1"
+	{
+		"en" "1: The Turnpike"
+	}
+	"L4D360UI_LevelName_COOP_C10M2"
+	{
+		"en" "2: The Drains"
+	}
+	"L4D360UI_LevelName_COOP_C10M3"
+	{
+		"en" "3: The Church"
+	}
+	"L4D360UI_LevelName_COOP_C10M4"
+	{
+		"en" "4: The Town"
+	}
+	"L4D360UI_LevelName_COOP_C10M5"
+	{
+		"en" "5: Boathouse Finale"
+	}
+	"L4D360UI_LevelName_VERSUS_C10M1"
+	{
+		"en" "1: The Turnpike (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C10M2"
+	{
+		"en" "2: The Drains (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C10M3"
+	{
+		"en" "3: The Church (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C10M4"
+	{
+		"en" "4: The Town (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C10M5"
+	{
+		"en" "5: Boathouse Finale (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C10M1"
+	{
+		"en" "The Turnpike"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C10M2"
+	{
+		"en" "The Drains"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C10M3"
+	{
+		"en" "The Church"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C10M4"
+	{
+		"en" "The Town"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C10M5"
+	{
+		"en" "The Boathouse"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C10M1"
+	{
+		"en" "Turnpike"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C10M2"
+	{
+		"en" "Drains"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C10M3"
+	{
+		"en" "Church"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C10M4"
+	{
+		"en" "Street"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C10M5"
+	{
+		"en" "Boathouse"
+	}
+	"L4D360UI_CampaignTitle_C11"
+	{
+		"en" "Dead Air"
+	}
+	"L4D360UI_LevelName_COOP_C11M1"
+	{
+		"en" "1: The Greenhouse"
+	}
+	"L4D360UI_LevelName_COOP_C11M2"
+	{
+		"en" "2: The Crane"
+	}
+	"L4D360UI_LevelName_COOP_C11M3"
+	{
+		"en" "3: The Construction Site"
+	}
+	"L4D360UI_LevelName_COOP_C11M4"
+	{
+		"en" "4: The Terminal"
+	}
+	"L4D360UI_LevelName_COOP_C11M5"
+	{
+		"en" "5: Runway Finale"
+	}
+	"L4D360UI_LevelName_VERSUS_C11M1"
+	{
+		"en" "1: The Greenhouse (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C11M2"
+	{
+		"en" "2: The Crane (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C11M3"
+	{
+		"en" "3: The Construction Site (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C11M4"
+	{
+		"en" "4: The Terminal (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C11M5"
+	{
+		"en" "5: Runway Finale (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C11M1"
+	{
+		"en" "The Greenhouse"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C11M2"
+	{
+		"en" "The Crane"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C11M3"
+	{
+		"en" "The Construction Site"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C11M4"
+	{
+		"en" "The Terminal"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C11M5"
+	{
+		"en" "The Runway"
+	}
+	"L4D360UI_CampaignTitle_C12"
+	{
+		"en" "Blood Harvest"
+	}
+	"L4D360UI_LevelName_COOP_C12M1"
+	{
+		"en" "1: The Woods"
+	}
+	"L4D360UI_LevelName_COOP_C12M2"
+	{
+		"en" "2: The Tunnel"
+	}
+	"L4D360UI_LevelName_COOP_C12M3"
+	{
+		"en" "3: The Bridge"
+	}
+	"L4D360UI_LevelName_COOP_C12M4"
+	{
+		"en" "4: The Train Station"
+	}
+	"L4D360UI_LevelName_COOP_C12M5"
+	{
+		"en" "5: Farmhouse Finale"
+	}
+	"L4D360UI_LevelName_VERSUS_C12M1"
+	{
+		"en" "1: The Woods (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C12M2"
+	{
+		"en" "2: The Tunnel (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C12M3"
+	{
+		"en" "3: The Bridge (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C12M4"
+	{
+		"en" "4: The Train Station (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C12M5"
+	{
+		"en" "5: Farmhouse Finale (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C12M1"
+	{
+		"en" "The Woods"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C12M2"
+	{
+		"en" "The Tunnel"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C12M3"
+	{
+		"en" "The Bridge"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C12M4"
+	{
+		"en" "The Train Station"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C12M5"
+	{
+		"en" "The Farmhouse"
+	}
+	"L4D360UI_CampaignTitle_C13"
+	{
+		"en" "Cold Stream"
+	}
+	"L4D360UI_LevelName_COOP_C13M1"
+	{
+		"en" "1: Alpine Creek"
+	}
+	"L4D360UI_LevelName_COOP_C13M2"
+	{
+		"en" "2: South Pine Stream"
+	}
+	"L4D360UI_LevelName_COOP_C13M3"
+	{
+		"en" "3: Memorial Bridge"
+	}
+	"L4D360UI_LevelName_COOP_C13M4"
+	{
+		"en" "4: Cut-throat Creek"
+	}
+	"L4D360UI_LevelName_VERSUS_C13M1"
+	{
+		"en" "1: Alpine Creek (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C13M2"
+	{
+		"en" "2: South Pine Stream (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C13M3"
+	{
+		"en" "3: Memorial Bridge (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C13M4"
+	{
+		"en" "4: Cut-throat Creek (VS)"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C13M3"
+	{
+		"en" "Junkyard"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C13M4"
+	{
+		"en" "Waterworks"
+	}
+	"L4D360UI_CampaignTitle_C14"
+	{
+		"en" "The Last Stand"
+	}
+	"L4D360UI_LevelName_COOP_C14M1"
+	{
+		"en" "1: The Junkyard"
+	}
+	"L4D360UI_LevelName_COOP_C14M2"
+	{
+		"en" "2: Lighthouse Finale"
+	}
+	"L4D360UI_LevelName_VERSUS_C14M1"
+	{
+		"en" "1: The Junkyard (VS)"
+	}
+	"L4D360UI_LevelName_VERSUS_C14M2"
+	{
+		"en" "2: Lighthouse Finale (VS)"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C14M1"
+	{
+		"en" "The Village"
+	}
+	"L4D360UI_LevelName_SCAVENGE_C14M2"
+	{
+		"en" "The Lighthouse"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C14M1"
+	{
+		"en" "Junkyard"
+	}
+	"L4D360UI_LevelName_SURVIVAL_C14M2"
+	{
+		"en" "Lighthouse"
+	}
+}

@@ -1,0 +1,31 @@
+"Phrases"
+{
+    "Chat"
+    {
+        "en"    "Chat"
+    }
+    "NEON"
+    {
+        "en"    "Neon"
+    }
+    "AURA"
+    {
+        "en"    "Aura"
+    }
+    "TRAILS"
+    {
+        "en"    "Trails"
+    }
+    "COLORS_MENU"
+    {
+        "en"    "Color Menu"
+    }
+    "WEAPONS"
+    {
+        "en"    "VIP Weapons"
+    }
+    "HATS"
+    {
+        "en"    "VIP Hats"
+    }
+}

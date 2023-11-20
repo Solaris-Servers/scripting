@@ -1,0 +1,92 @@
+"Phrases"
+{
+    "MainMenuTitle"
+    {
+        "en"        "Chat settings"
+    }
+
+    "DisableAll"
+    {
+        "en"        "Disable all"
+    }
+
+    "Prefix"
+    {
+        "en"        "Prefix"
+    }
+
+    "PrefixColor"
+    {
+        "en"        "Prefix color"
+    }
+
+    "NameColor"
+    {
+        "en"        "Name color"
+    }
+
+    "TextColor"
+    {
+        "en"        "Text color"
+    }
+
+    "NotChosen"
+    {
+        "en"        "Not chosen"
+    }
+
+    "NoAccess"
+    {
+        "en"        "No access"
+    }
+
+    "Disable"
+    {
+        "en"        "Disable"
+    }
+
+    "Help"
+    {
+        "en"        "Help"
+    }
+
+    "Disabled"
+    {
+        "en"        "Disabled"
+    }
+
+    "Selected"
+    {
+        "en"        "Selected"
+    }
+
+    "NoItems"
+    {
+        "en"        "No Items"
+    }
+
+    "Set"
+    {
+        "en"        "Set"
+    }
+
+    "EnterValueInChat"
+    {
+        "en"        "Type value to chat\nand hit"
+    }
+
+    "Value"
+    {
+        "en"        "You entered"
+    }
+
+    "Confirm"
+    {
+        "en"        "Confirm"
+    }
+
+    "Cancel"
+    {
+        "en"        "Cancel"
+    }
+}
