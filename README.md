@@ -14,6 +14,6 @@ This is almost complete collection of plugins used by [Solaris Servers](https://
 
 The collection is provided "AS IS". There is almost no chance that anything will get updated or will be explained due to amount of time required to maintain codebase of this size.
 
-I implore you to respect the authors of the code and to not replace their names with yours just because you figured out how copy and paste works, or because you can rewrite the same code with your own indentation and emojis in comments.
+I implore you to respect the authors of the code and not to replace their names with yours just because you figured out how copy and paste works, or because you can rewrite the same code with your own indentation and emojis in comments.
 
 We hope you find it useful.
